@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="complete" table="x_58872_needit_needit">
         <active>true</active>
         <array>false</array>
-        <attributes>target_field=percent_complete_target,target_threshold_colors=0:color1;33:color2;66:color3;90:color4</attributes>
+        <attributes>target_field=percent_complete_target,target_threshold_colors=0:#DAF7A6 ;33:#FFC300;66:#FF5733;90:#00BFFF,target_field=target</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -58,7 +58,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_dictionary_x_58872_needit_needit_complete</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-22 09:50:25</sys_updated_on>
+        <sys_updated_on>2024-10-22 11:05:23</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

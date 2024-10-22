@@ -16,7 +16,7 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_other" type="string"/>
         <element label="When needed" mandatory="true" max_length="40" name="u_when_needed" type="glide_date_time"/>
-        <element attributes="target_field=percent_complete_target,target_threshold_colors=0:color1;33:color2;66:color3;90:color4" label="% complete" max_length="15" name="complete" type="percent_complete"/>
+        <element attributes="target_field=percent_complete_target,target_threshold_colors=0:#DAF7A6 ;33:#FFC300;66:#FF5733;90:#00BFFF,target_field=target" label="% complete" max_length="15" name="complete" type="percent_complete"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="legal" label="Request type" mandatory="true" max_length="40" name="u_request_type" type="string">
             <choice>
                 <element inactive_on_update="false" label="Human Resources" sequence="2" value="hr"/>
