@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="DELETE">
+        <active>true</active>
+        <applicability display_value="NeedIt Admins">5691f78c83a19210c07a91d6feaad369</applicability>
+        <order>0</order>
+        <screen display_value="NeedIt User home">a2c3374083e19210c07a91d6feaad3e8</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-25 07:58:08</sys_created_on>
+        <sys_id>2ec3374083e19210c07a91d6feaad3ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_2ec3374083e19210c07a91d6feaad3ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-25 07:58:08</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>5fa3c6aa1bb67154699443f4bd4bcb8f</instance_id>
+        <instance_name>dev231739</instance_name>
+        <name>sys_ux_applicability_m2m_screen_2ec3374083e19210c07a91d6feaad3ec</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen"><sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="NeedIt Admins">5691f78c83a19210c07a91d6feaad369</applicability><order>0</order><screen display_value="NeedIt User home">a2c3374083e19210c07a91d6feaad3e8</screen><sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-25 07:58:08</sys_created_on><sys_id>2ec3374083e19210c07a91d6feaad3ec</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_applicability_m2m_screen_2ec3374083e19210c07a91d6feaad3ec</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-25 07:58:08</sys_updated_on></sys_ux_applicability_m2m_screen></record_update>]]></payload>
+        <payload_hash>-203233700</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>5820fb8383551210c07a91d6feaad396</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-25 07:58:08</sys_created_on>
+        <sys_id>62c3374083e19210c07a91d6feaad3ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192c2aecddb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-25 07:58:08</sys_updated_on>
+        <type>Screen Applicability</type>
+        <update_guid>66c3374039e19210bc08c9f28deee1ee</update_guid>
+        <update_guid_history>66c3374039e19210bc08c9f28deee1ee:-203233700</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-25 08:11:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability_m2m_screen">sys_ux_applicability_m2m_screen</sys_db_object>
+        <sys_id>162760a7d996489982cf9e0a1d77c0a9</sys_id>
+        <sys_metadata>2ec3374083e19210c07a91d6feaad3ec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_m2m_screen_2ec3374083e19210c07a91d6feaad3ec</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_m2m_screen_2ec3374083e19210c07a91d6feaad3ec">62c3374083e19210c07a91d6feaad3ef</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-25 08:11:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
