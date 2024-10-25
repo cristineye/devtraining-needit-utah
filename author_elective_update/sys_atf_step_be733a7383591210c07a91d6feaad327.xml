@@ -158,7 +158,7 @@ and When needed &lt; javascript:gs.beginningOfToday()</description><display_name
         <reverted_from/>
         <source>5820fb8383551210c07a91d6feaad396</source>
         <source_table>sys_update_set</source_table>
-        <state>previous</state>
+        <state>current</state>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-25 00:50:16</sys_created_on>
         <sys_id>bad11e0883a95210c07a91d6feaad396</sys_id>
