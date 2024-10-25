@@ -6,6 +6,8 @@
 When needed = javascript:gs.daysAgo(3)
 and Requested for = {{Step 1: Create a User.User}}
 and Requested for email = {{Step 1: Create a User.User.First name}}.{{Step 1: Create a User.User.Last name}}@example.com
+and What needed = Legal 1
+and Request type = Legal
 Confirm the record was not inserted</description>
         <display_name>Record Insert</display_name>
         <inputs/>
@@ -18,14 +20,14 @@ Confirm the record was not inserted</description>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-24 08:38:42</sys_created_on>
         <sys_id>7e733a7383591210c07a91d6feaad31b</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Record Insert</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_atf_step_7e733a7383591210c07a91d6feaad31b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-24 08:50:53</sys_updated_on>
+        <sys_updated_on>2024-10-25 01:18:31</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <test display_value="When needed - Past">f673ba3383591210c07a91d6feaad3bf</test>
         <timeout/>
@@ -54,9 +56,9 @@ Confirm the record was not inserted</description>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-24 08:38:42</sys_created_on>
         <sys_id>72733a7383591210c07a91d6feaad31e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-24 08:38:42</sys_updated_on>
+        <sys_updated_on>2024-10-24 14:21:57</sys_updated_on>
         <value>1</value>
         <variable display_value="Enforce security">e6e3c7535320220002c6435723dc3496</variable>
     </sys_variable_value>
@@ -82,10 +84,10 @@ Confirm the record was not inserted</description>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-24 08:38:42</sys_created_on>
         <sys_id>f6733a7383591210c07a91d6feaad31e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-24 08:41:29</sys_updated_on>
-        <value>u_when_needed=javascript:gs.daysAgo(3)^u_requested_for={{step['3a73ba3383591210c07a91d6feaad3c4'].user}}^u_requested_for_email={{step['3a73ba3383591210c07a91d6feaad3c4'].user.first_name}}.{{step['3a73ba3383591210c07a91d6feaad3c4'].user.last_name}}@example.com^EQ</value>
+        <sys_updated_on>2024-10-25 00:53:50</sys_updated_on>
+        <value>u_when_needed=javascript:gs.daysAgo(3)^u_requested_for={{step['3a73ba3383591210c07a91d6feaad3c4'].user}}^u_requested_for_email={{step['3a73ba3383591210c07a91d6feaad3c4'].user.first_name}}.{{step['3a73ba3383591210c07a91d6feaad3c4'].user.last_name}}@example.com^u_what_needed=legal1^u_request_type=legal^EQ</value>
         <variable display_value="Field values">dd54cf535320220002c6435723dc34fd</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=7e733a7383591210c07a91d6feaad31b"/>
@@ -107,10 +109,10 @@ Confirm the record was not inserted</description>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-24 08:38:42</sys_created_on>
         <sys_id>7e733a7383591210c07a91d6feaad31e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-24 08:41:29</sys_updated_on>
+        <sys_updated_on>2024-10-25 00:53:50</sys_updated_on>
         <table>var__m_atf_input_variable_14872288df60220062fe6c7a4df26319</table>
-        <value>u_when_needed=javascript:gs.daysAgo(3)^u_requested_for={{step['3a73ba3383591210c07a91d6feaad3c4'].user}}^u_requested_for_email={{step['3a73ba3383591210c07a91d6feaad3c4'].user.first_name}}.{{step['3a73ba3383591210c07a91d6feaad3c4'].user.last_name}}@example.com^EQ</value>
+        <value>u_when_needed=javascript:gs.daysAgo(3)^u_requested_for={{step['3a73ba3383591210c07a91d6feaad3c4'].user}}^u_requested_for_email={{step['3a73ba3383591210c07a91d6feaad3c4'].user.first_name}}.{{step['3a73ba3383591210c07a91d6feaad3c4'].user.last_name}}@example.com^u_what_needed=legal1^u_request_type=legal^EQ</value>
     </sys_element_mapping>
 </record_update>
